@@ -33,12 +33,7 @@ const CONFIG = {
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2026? 🌹", // The big question!
-            yesBtn: "Yes!",                                             // Text for "Yes" button
-            noBtn: "No"                                                 // Text for "No" button
-        }
-        fourth: {
-            text: "Reservation secured at Water and Wheat in NYC at 7:30pm. Will you be there? 🌹", // The big question!
+            text: "Will you be my Valentine on February 14th, 2026? Reservation secured at Water and Wheat in NYC at 7:30pm. 🌹", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
