@@ -38,7 +38,9 @@ const CONFIG = {
             noBtn: "No"                                                 // Text for "No" button
         }
         fourth: {
-            text: "Reservation secured at Water and Wheat in NYC at 7:30pm. 🌹", // The big question!
+            text: "Reservation secured at Water and Wheat in NYC at 7:30pm. Will you be there? 🌹", // The big question!
+            yesBtn: "Yes!",                                             // Text for "Yes" button
+            noBtn: "No"                                                 // Text for "No" button
         }
     },
 
